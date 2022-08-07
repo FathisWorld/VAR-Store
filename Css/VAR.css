@@ -32,6 +32,10 @@ body {
     margin-right: auto;
 }
 
+.active {
+    display: grid;
+}
+
 body {
     text-transform: capitalize;
 }
@@ -318,12 +322,12 @@ header .links ul li a:hover {
     }
 }
 
-.bags {
-    display: none;
-}
-
 .first {
     margin-bottom: 160px;
+}
+
+.bags {
+    display: none;
 }
 
 .first .container {
