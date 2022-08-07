@@ -318,6 +318,10 @@ header .links ul li a:hover {
     }
 }
 
+.bags {
+    display: none;
+}
+
 .first {
     margin-bottom: 160px;
 }
